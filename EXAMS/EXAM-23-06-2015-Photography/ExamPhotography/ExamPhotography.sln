@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-EntityFrameworkMappings", "EntityFrameworkMappings\01-EntityFrameworkMappings.csproj", "{164ADFD4-2CD3-49B4-8AA4-8B087332EE61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-ExportManufacturersAndCamerasAsJson", "ExportManufacturersAndCamerasAsJson\02-ExportManufacturersAndCamerasAsJson.csproj", "{9F0C05F1-B3C4-4A6D-AB14-1E3AB5F9C679}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-ExportPhotographsXML", "ExportPhotographsXML\03-ExportPhotographsXML.csproj", "{18594C95-889D-4F70-A30B-4056C7280BC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-ImportManufacturersAndLensesFromXML", "ImportManufacturersAndLensesFromXML\04-ImportManufacturersAndLensesFromXML.csproj", "{9F68234A-FB7C-48C3-A1A7-898E009C6188}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-EF-CodeFirst", "EF-CodeFirst\05-EF-CodeFirst.csproj", "{96BB643E-F08F-46DB-BA16-519BF1FD872A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-ImportUserMessagesFromJSON", "ImportUserMessagesFromJSON\06-ImportUserMessagesFromJSON.csproj", "{707E7065-53B1-4A54-842F-B56C61253B4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{164ADFD4-2CD3-49B4-8AA4-8B087332EE61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{164ADFD4-2CD3-49B4-8AA4-8B087332EE61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{164ADFD4-2CD3-49B4-8AA4-8B087332EE61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{164ADFD4-2CD3-49B4-8AA4-8B087332EE61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F0C05F1-B3C4-4A6D-AB14-1E3AB5F9C679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F0C05F1-B3C4-4A6D-AB14-1E3AB5F9C679}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F0C05F1-B3C4-4A6D-AB14-1E3AB5F9C679}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F0C05F1-B3C4-4A6D-AB14-1E3AB5F9C679}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18594C95-889D-4F70-A30B-4056C7280BC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18594C95-889D-4F70-A30B-4056C7280BC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18594C95-889D-4F70-A30B-4056C7280BC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18594C95-889D-4F70-A30B-4056C7280BC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F68234A-FB7C-48C3-A1A7-898E009C6188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F68234A-FB7C-48C3-A1A7-898E009C6188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F68234A-FB7C-48C3-A1A7-898E009C6188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F68234A-FB7C-48C3-A1A7-898E009C6188}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96BB643E-F08F-46DB-BA16-519BF1FD872A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96BB643E-F08F-46DB-BA16-519BF1FD872A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96BB643E-F08F-46DB-BA16-519BF1FD872A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96BB643E-F08F-46DB-BA16-519BF1FD872A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{707E7065-53B1-4A54-842F-B56C61253B4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{707E7065-53B1-4A54-842F-B56C61253B4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{707E7065-53B1-4A54-842F-B56C61253B4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{707E7065-53B1-4A54-842F-B56C61253B4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

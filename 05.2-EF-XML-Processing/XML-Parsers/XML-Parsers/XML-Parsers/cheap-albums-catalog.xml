@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<albums>
+  <album>
+    <name>Dummy</name>
+    <artist>Portishead</artist>
+    <year>1994</year>
+    <producer>Portishead</producer>
+    <price>18.25</price>
+    <songs>
+      <song title="Mysterons" length="5:02" />
+      <song title="Sour Times" length="4:11" />
+      <song title="Strangers" length="3:55" />
+      <song title="It Could Be Sweet" length="4:16" />
+      <song title="Wandering Star" length="4:51" />
+      <song title="It's a Fire" length="3:49" />
+      <song title="Numb" length="3:54" />
+      <song title="Roads" length="5:02" />
+      <song title="Pedestal" length="3:39" />
+      <song title="Biscuit" length="5:01" />
+      <song title="Glory Box" length="5:06" />
+    </songs>
+  </album>
+  <album>
+    <name>The Chronic</name>
+    <artist>Dr.Dre</artist>
+    <year>1992</year>
+    <producer>Dr.Dre</producer>
+    <price>10.00</price>
+    <songs>
+      <song title="Intro" length="4:58" />
+      <song title="Wit Dre Day" length="3:57" />
+      <song title="Let me ride" length="3:16" />
+      <song title="Rat-Tat-Tat" length="4:29" />
+      <song title="The dat that niggaz" length="3:27" />
+      <song title="Nuthin' but A G thang" length="6:27" />
+      <song title="Lil Gheto Boy" length="1:31" />
+      <song title="Machine Gun funk" length="4:43" />
+    </songs>
+  </album>
+</albums>

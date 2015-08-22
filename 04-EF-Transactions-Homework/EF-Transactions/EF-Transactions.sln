@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsDB.Models", "NewsDB.Models\NewsDB.Models.csproj", "{3E7CA305-CBF0-4CBA-982B-F9E02C0EE477}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsDB.Data", "NewsDB.Data\NewsDB.Data.csproj", "{015491A2-5BE3-4E43-9DE3-8EB51520C00F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsDB.ConsoleClient", "NewsDB.ConsoleClient\NewsDB.ConsoleClient.csproj", "{4B3F83DF-7835-4BA8-B90F-69629A3B4B99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransactionalATMWithdrawal", "TransactionalATMWithdrawal\TransactionalATMWithdrawal.csproj", "{8F0A5274-06F8-4644-B7C9-74F12EF664AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E7CA305-CBF0-4CBA-982B-F9E02C0EE477}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E7CA305-CBF0-4CBA-982B-F9E02C0EE477}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E7CA305-CBF0-4CBA-982B-F9E02C0EE477}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E7CA305-CBF0-4CBA-982B-F9E02C0EE477}.Release|Any CPU.Build.0 = Release|Any CPU
+		{015491A2-5BE3-4E43-9DE3-8EB51520C00F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{015491A2-5BE3-4E43-9DE3-8EB51520C00F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{015491A2-5BE3-4E43-9DE3-8EB51520C00F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{015491A2-5BE3-4E43-9DE3-8EB51520C00F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B3F83DF-7835-4BA8-B90F-69629A3B4B99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B3F83DF-7835-4BA8-B90F-69629A3B4B99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B3F83DF-7835-4BA8-B90F-69629A3B4B99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B3F83DF-7835-4BA8-B90F-69629A3B4B99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F0A5274-06F8-4644-B7C9-74F12EF664AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F0A5274-06F8-4644-B7C9-74F12EF664AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F0A5274-06F8-4644-B7C9-74F12EF664AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F0A5274-06F8-4644-B7C9-74F12EF664AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<students>
+  <student>
+    <name>Goran Mihailov</name>
+    <gender>Male</gender>
+    <birthdate>1985-11-28</birthdate>
+    <phoneNumber>088878787</phoneNumber>
+    <email>tryncho@tryn.com</email>
+    <university>UASG</university>
+    <specialty>Transport</specialty>
+    <facultyNumber>852221</facultyNumber>
+    <exams>
+      <exam>
+        <name>Bridges</name>
+        <dateTaken>2000-02-02</dateTaken>
+        <grade>6</grade>
+      </exam>
+      <exam>
+        <name>Mechanics</name>
+        <dateTaken>2000-03-02</dateTaken>
+        <grade>5</grade>
+      </exam>
+      <exam>
+        <name>Concrete</name>
+        <dateTaken>2000-05-03</dateTaken>
+        <grade>3</grade>
+      </exam>
+    </exams>
+  </student>
+  <student>
+    <name>Alex Petrov</name>
+    <gender>Male</gender>
+    <birthdate>1985-12-18</birthdate>
+    <phoneNumber>088878333</phoneNumber>
+    <email>zar@zar.com</email>
+    <university>UASG</university>
+    <specialty>Water</specialty>
+    <facultyNumber>4635</facultyNumber>
+    <exams>
+      <exam>
+        <examName>Water supply</examName>
+        <dateTaken>2000-02-06</dateTaken>
+        <grade>5</grade>
+      </exam>
+      <exam>
+        <examName>Hydraulics</examName>
+        <dateTaken>2001-05-12</dateTaken>
+        <grade>3</grade>
+      </exam>
+      <exam>
+        <examName>Sewerage</examName>
+        <dateTaken>2002-04-08</dateTaken>
+        <grade>4</grade>
+      </exam>
+    </exams>
+  </student>
+  <student>
+    <name>Stefan Ivanov</name>
+    <gender>Male</gender>
+    <birthdate>1988-09-12</birthdate>
+    <phoneNumber>0883567843</phoneNumber>
+    <email>bo@bo.com</email>
+    <university>SoftUni</university>
+    <specialty>Developer</specialty>
+    <facultyNumber>12514</facultyNumber>
+    <exams>
+      <exam>
+        <examName>C#</examName>
+        <dateTaken>2014-09-06</dateTaken>
+        <grade>5</grade>
+      </exam>
+      <exam>
+        <examName>Java</examName>
+        <dateTaken>2015-02-06</dateTaken>
+        <grade>5</grade>
+      </exam>
+      <exam>
+        <examName>JavaScript</examName>
+        <dateTaken>2015-02-15</dateTaken>
+        <grade>6</grade>
+      </exam>
+    </exams>
+  </student>
+</students>

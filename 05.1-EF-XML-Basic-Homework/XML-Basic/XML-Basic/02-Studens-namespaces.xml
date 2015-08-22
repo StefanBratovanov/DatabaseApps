@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<students:students
+  xmlns:students = "urn:students"
+  xmlns:exam = "urn:exam">
+  <students:student>
+    <students:name>Goran Mihailov</students:name>
+    <students:gender>Male</students:gender>
+    <students:birthdate>1985-11-28</students:birthdate>
+    <students:phoneNumber>088878787</students:phoneNumber>
+    <students:email>tryncho@tryn.com</students:email>
+    <students:university>UASG</students:university>
+    <students:specialty>Transport</students:specialty>
+    <students:facultyNumber>852221</students:facultyNumber>
+    <students:exams>
+      <exam:exam>
+        <exam:name>Bridges</exam:name>
+        <exam:dateTaken>2000-02-02</exam:dateTaken>
+        <exam:grade>6</exam:grade>
+      </exam:exam>
+      <exam:exam>
+        <exam:name>Mechanics</exam:name>
+        <exam:dateTaken>2000-03-02</exam:dateTaken>
+        <exam:grade>5</exam:grade>
+      </exam:exam>
+      <exam:exam>
+        <exam:name>Concrete</exam:name>
+        <exam:dateTaken>2000-05-03</exam:dateTaken>
+        <exam:grade>3</exam:grade>
+      </exam:exam>
+    </students:exams>
+  </students:student>
+  
+  <students:student>
+    <students:name>Alex Petrov</students:name>
+    <students:gender>Male</students:gender>
+    <students:birthdate>1985-12-18</students:birthdate>
+    <students:phoneNumber>088878333</students:phoneNumber>
+    <students:email>zar@zar.com</students:email>
+    <students:university>UASG</students:university>
+    <students:specialty>Water</students:specialty>
+    <students:facultyNumber>4635</students:facultyNumber>
+    <students:exams>
+      <exam:exam>
+        <exam:name>Water supply</exam:name>
+        <exam:dateTaken>2000-02-06</exam:dateTaken>
+        <exam:grade>5</exam:grade>
+      </exam:exam>
+      <exam:exam>
+        <exam:name>Hydraulics</exam:name>
+        <exam:dateTaken>2001-05-12</exam:dateTaken>
+        <exam:grade>3</exam:grade>
+      </exam:exam>
+      <exam:exam>
+        <exam:name>Sewerage</exam:name>
+        <exam:dateTaken>2002-04-08</exam:dateTaken>
+        <exam:grade>4</exam:grade>
+      </exam:exam>
+    </students:exams>
+  </students:student>
+  
+  <students:student>
+    <students:name>Stefan Ivanov</students:name>
+    <students:gender>Male</students:gender>
+    <students:birthdate>1988-09-12</students:birthdate>
+    <students:phoneNumber>0883567843</students:phoneNumber>
+    <students:email>bo@bo.com</students:email>
+    <students:university>SoftUni</students:university>
+    <students:specialty>Developer</students:specialty>
+    <students:facultyNumber>12514</students:facultyNumber>
+    <students:exams>
+      <exam:exam>
+        <exam:name>C#</exam:name>
+        <exam:dateTaken>2014-09-06</exam:dateTaken>
+        <exam:grade>5</exam:grade>
+      </exam:exam>
+      <exam:exam>
+        <exam:name>Java</exam:name>
+        <exam:dateTaken>2015-02-06</exam:dateTaken>
+        <exam:grade>5</exam:grade>
+      </exam:exam>
+      <exam:exam>
+        <exam:name>JavaScript</exam:name>
+        <exam:dateTaken>2015-02-15</exam:dateTaken>
+        <exam:grade>6</exam:grade>
+      </exam:exam>
+    </students:exams>
+  </students:student>
+</students:students>
+

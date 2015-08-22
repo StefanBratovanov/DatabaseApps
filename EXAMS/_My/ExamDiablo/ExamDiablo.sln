@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-EntityFrameworkMappings", "EntityFrameworkMappings\01-EntityFrameworkMappings.csproj", "{5A0575B8-6BBA-486B-B095-5458D011DB80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-ExportCharactersAndPlayersAsJson", "ExportCharactersAndPlayersAsJson\02-ExportCharactersAndPlayersAsJson.csproj", "{2EE3EE6E-379A-4530-86CF-4D83210ADB2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-ExportFinishedGamesAsXML", "ExportFinishedGamesAsXML\03-ExportFinishedGamesAsXML.csproj", "{FA84075D-9A1C-4A30-BC03-ACE7D3042A8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-ImportUsersAndTheirGamesFromXML", "ImportUsersAndTheirGamesFromXML\04-ImportUsersAndTheirGamesFromXML.csproj", "{642BBA62-ABC5-4AFA-8D48-094323FA94F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-EF-CodeFirstMovies", "EF-CodeFirstMovies\05-EF-CodeFirstMovies.csproj", "{AB81B28E-95EB-4C61-BCC9-6842BB328006}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A0575B8-6BBA-486B-B095-5458D011DB80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A0575B8-6BBA-486B-B095-5458D011DB80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A0575B8-6BBA-486B-B095-5458D011DB80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A0575B8-6BBA-486B-B095-5458D011DB80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EE3EE6E-379A-4530-86CF-4D83210ADB2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EE3EE6E-379A-4530-86CF-4D83210ADB2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EE3EE6E-379A-4530-86CF-4D83210ADB2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EE3EE6E-379A-4530-86CF-4D83210ADB2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA84075D-9A1C-4A30-BC03-ACE7D3042A8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA84075D-9A1C-4A30-BC03-ACE7D3042A8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA84075D-9A1C-4A30-BC03-ACE7D3042A8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA84075D-9A1C-4A30-BC03-ACE7D3042A8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{642BBA62-ABC5-4AFA-8D48-094323FA94F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{642BBA62-ABC5-4AFA-8D48-094323FA94F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{642BBA62-ABC5-4AFA-8D48-094323FA94F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{642BBA62-ABC5-4AFA-8D48-094323FA94F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB81B28E-95EB-4C61-BCC9-6842BB328006}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB81B28E-95EB-4C61-BCC9-6842BB328006}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB81B28E-95EB-4C61-BCC9-6842BB328006}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB81B28E-95EB-4C61-BCC9-6842BB328006}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

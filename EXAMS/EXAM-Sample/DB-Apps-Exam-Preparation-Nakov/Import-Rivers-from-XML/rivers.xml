@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" ?>
+<rivers>
+  
+  <river>
+    <name>Maritsa</name>
+    <outflow>Aegean Sea</outflow>
+    <countries>
+      <country>Bulgaria</country>
+    </countries>
+    <length>480</length>
+  </river>
+
+  <river>
+    <name>бедържавна</name>
+    <length>0</length>
+    <outflow>никъде</outflow>
+  </river>
+  
+  <river>
+    <length>1130</length>
+    <name>Madre de Dios</name>
+    <drainage-area>125000</drainage-area>
+    <average-discharge>4915</average-discharge>
+    <outflow>Beni River</outflow>
+    <countries>
+      <country>Peru</country>
+      <country>Bolivia</country>
+    </countries>
+  </river>
+  
+</rivers>

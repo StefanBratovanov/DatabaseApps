@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="9c8535ed19e74da1a8a766b6b54d8a8a" Name="Diagram1" ZoomLevel="113">
+        <EntityTypeShape EntityType="GeographyModel.Continent" Width="1.5" PointX="1.5" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="GeographyModel.Country" Width="1.5" PointX="3.625" PointY="2.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="GeographyModel.Currency" Width="1.5" PointX="1.5" PointY="2.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="GeographyModel.Monastery" Width="1.5" PointX="5.875" PointY="2.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="GeographyModel.River" Width="1.5" PointX="5.875" PointY="4.125" IsExpanded="true" />
+        <AssociationConnector Association="GeographyModel.FK_Countries_Continents" ManuallyRouted="false" />
+        <AssociationConnector Association="GeographyModel.FK_Countries_Currencies" ManuallyRouted="false" />
+        <AssociationConnector Association="GeographyModel.FK_Monasteries_Countries" ManuallyRouted="false" />
+        <AssociationConnector Association="GeographyModel.CountriesRivers" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-EntityFrameworkMappings", "01-EntityFrameworkMappings\01-EntityFrameworkMappings.csproj", "{80135607-1B9F-40AA-800B-AD83C64A6947}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-ExportRiversAsJSON", "02-ExportRiversAsJSON\02-ExportRiversAsJSON.csproj", "{0660624B-04C3-49DF-827E-1BB03E6A7A78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-ExportMonasteriesByCountryAsXML", "03-ExportMonasteriesByCountryAsXML\03-ExportMonasteriesByCountryAsXML.csproj", "{F9D96D36-CFC5-4F35-B2FA-517C8D17BEE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-ImportRiversFromXML", "04-ImportRiversFromXML\04-ImportRiversFromXML.csproj", "{BC88628E-6225-475F-BC71-C59DE6615A07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-Mountains-Code-First", "05-Mountains-Code-First\05-Mountains-Code-First.csproj", "{1591167D-5D54-4370-9932-DB8A0FA6A85E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80135607-1B9F-40AA-800B-AD83C64A6947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80135607-1B9F-40AA-800B-AD83C64A6947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80135607-1B9F-40AA-800B-AD83C64A6947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80135607-1B9F-40AA-800B-AD83C64A6947}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0660624B-04C3-49DF-827E-1BB03E6A7A78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0660624B-04C3-49DF-827E-1BB03E6A7A78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0660624B-04C3-49DF-827E-1BB03E6A7A78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0660624B-04C3-49DF-827E-1BB03E6A7A78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9D96D36-CFC5-4F35-B2FA-517C8D17BEE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9D96D36-CFC5-4F35-B2FA-517C8D17BEE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9D96D36-CFC5-4F35-B2FA-517C8D17BEE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9D96D36-CFC5-4F35-B2FA-517C8D17BEE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC88628E-6225-475F-BC71-C59DE6615A07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC88628E-6225-475F-BC71-C59DE6615A07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC88628E-6225-475F-BC71-C59DE6615A07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC88628E-6225-475F-BC71-C59DE6615A07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1591167D-5D54-4370-9932-DB8A0FA6A85E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1591167D-5D54-4370-9932-DB8A0FA6A85E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1591167D-5D54-4370-9932-DB8A0FA6A85E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1591167D-5D54-4370-9932-DB8A0FA6A85E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
